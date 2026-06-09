@@ -1,0 +1,1 @@
+# mining-qr-identification-system
